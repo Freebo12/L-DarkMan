@@ -1,4 +1,6 @@
-{
+{ "name":"darkman",
+  "homepage": "https://freebo12.github.io/L-DarkMan/",
+   
   "dependencies": {
     "bootstrap-icons": "^1.11.3"
   }
